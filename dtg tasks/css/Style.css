@@ -1,0 +1,43 @@
+img {
+  border-radius: 50%;
+  margin: auto;
+  display: block;
+
+}
+#image {
+  background-color:  #1abc9c;
+  border: 50px;
+  margin-left: 45%;
+  margin-right: 45%;
+  width: 100px;
+  padding: auto;
+
+}
+#tble{
+  margin-left: 27%;
+  margin-right:20%;
+  width: 100%;
+  font-family: arial;
+  border-collapse: collapse;
+  width: 50%;
+  padding: 100px;
+}
+
+td,th{
+  border: 1px solid silver;
+  text-align: center;
+  padding: 5px;
+} 
+.header {
+  padding: 3px;
+  text-align: center;
+  background: darkblue;
+  color: white;
+  font-size: 25px;
+}
+.footer {
+  width: 100%;
+  background-color:black;
+  color:white;
+  text-align: center;
+}
